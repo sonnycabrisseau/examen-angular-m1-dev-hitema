@@ -9,6 +9,13 @@ Méthode à suivre :
   * Faites régulièrement des commits
   * Pusher votre branche puis créez une Pull Request (n'attendez pas la fin !)
 
+Supports :
+----------
+
+=> Support de cours Angular https://docs.google.com/presentation/d/1x4Gop96gwVEvbJpTToQAJPdQLHe5GddWzraBlY0DCSs/edit?usp=sharing
+
+=> Support de cours TypeScript https://docs.google.com/presentation/d/1TFGp_eKQyYPtpO18ROCeszZi6z0CqqFPgvnxIY50InA/edit?usp=sharing
+
 Consignes :
 -----------
 

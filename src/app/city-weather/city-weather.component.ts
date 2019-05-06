@@ -25,8 +25,13 @@ export class CityWeatherComponent implements OnInit {
   loadWeather() {
     this.condition = this.weatherService.getWeatherState(this.name);
     this.currentTemp = this.weatherService.getCurrentTemp(this.name);
-    this.minTemp = this.weatherService.getMinTemp(this.name);
+    this.minTemp = this.weatherService.getMinTemp(this.name );
     this.maxTemp = this.weatherService.getMaxTemp(this.name);
+    
+  }
+  onChange(event){
+    this.name = event.target.value;
+    this.loadWeather();
   }
 
 }
